@@ -1,17 +1,17 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <h1 align="center">Hi 👋, I'm Badgujar Pranav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend and backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="krishkhinchi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbadgujar" /> </p>
 
-- 🌱 I’m currently working on [Odoo Clone](https://github.com/krishkhinchi/Odoo_Clone.git)
+- 🌱 I’m currently working on [Airbnb Clone](https://github.com/)
 
-- 📝 I regularly write articles on [https://substack.com/@krishhackz](https://substack.com/@krishhackz)
+- 📝 I regularly update Information in Linkedin on [https://substack.com/@](https://substack.com/@)
 
-- 💬 Ask me about **Html, Css, Javascript, Python, C and C++**
+- 💬 Ask me about **Html, Css, Javascript, Java, C and C++**
 
-- 📫 How to reach me **krishhackz.in@outlook.com**
+- 📫 How to reach me **pranavbadgujar843@outlook.com**
 
 <details open>
 <summary>Developer Quote</summary>
