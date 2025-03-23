@@ -49,4 +49,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pranav-prog-master&show_icons=true&locale=en" alt="Pranav-prog-master" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-prog-masteri&" alt="Pranav-prog-master" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-prog-master&" alt="Pranav-prog-master" /></p>
