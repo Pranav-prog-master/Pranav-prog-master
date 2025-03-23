@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on [Airbnb Clone](https://github.com/Pranav-prog-master/Airbnb_Clone.git)
 
-- 📝 I regularly update Information in Linkedin on [https://substack.com/@](https://substack.com/@linkedin.com/in/pranav-badgujar-821224319)
+- 📝 I regularly update Information in Linkedin on [https://substack.com/@](https:linkedin.com/in/pranav-badgujar-821224319)
 
 - 💬 Ask me about **Html, Css, Javascript, Java, C and C++**
 
