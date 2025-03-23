@@ -30,12 +30,14 @@
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
 <a href="pranavbadgujar843@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18888826/krish-khinchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18888826/krish-khinchi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/krishkhinchi/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=5e5b5b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" /></a>
+<a href="https://stackoverflow.com/users/18888826/krish-khinchi" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackover&label=&color=aca537&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Stackoverflow logo" /></a>
 <a href="https://www.instagram.com/mr_pranav.xb_21" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
 <a href="https://www.threads.net/@mr_pranav.xb_21" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Threads logo" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/krishkhinchi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/krishkhinchi/" height="30" width="40" /></a>
+<img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Threads logo" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
