@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Badgujar Pranav</h1>
 <h3 align="center">A passionate Frontend and backend developer from India</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF61D9&center=true&width=600&lines=Welcome+to+my+GitHub+profile!+💻;Full-Stack+Developer+🌐;Open-Source+Contributor+❤;Lifelong+Learner+🎓" alt="Typing SVG" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbadgujar" /> </p>
 
 - 🌱 I’m currently working on [Airbnb Clone](https://github.com/Pranav-prog-master/Airbnb_Clone.git)
