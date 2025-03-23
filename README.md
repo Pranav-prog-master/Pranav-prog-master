@@ -48,6 +48,9 @@
 ![Visits Badge](https://profile-counter.glitch.me/Pranav-prog-master/count.svg)
 </div>
 
+## Visits
+![Visits Badge](https://profile-counter.glitch.me/kanishka-trivedi/count.svg)
+
 <details open>
 <summary>GitHub Contribution Chart</summary>
 <p align="center">
