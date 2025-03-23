@@ -59,6 +59,12 @@
 </p>
 </details>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pranav-prog-master&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pranav-prog-master&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-prog-master&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranav-prog-master&show_icons=true&locale=en&layout=compact" alt="Pranav-prog-master" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pranav-prog-master&show_icons=true&locale=en" alt="Pranav-prog-master" /></p>
