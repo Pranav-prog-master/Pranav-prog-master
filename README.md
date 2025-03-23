@@ -59,6 +59,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Pranav-prog-master/Pranav-prog-master/output/github-snake.svg" />
 </picture>
 
+![snake gif](https://github.com/Pranav-prog-master/Pranav-prog-master/blob/output/github-snake-dark.svg)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranav-prog-master&show_icons=true&locale=en&layout=compact" alt="Pranav-prog-master" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pranav-prog-master&show_icons=true&locale=en" alt="Pranav-prog-master" /></p>
