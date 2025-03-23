@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on [Airbnb Clone](https://github.com/Pranav-prog-master/Airbnb_Clone.git)
 
-- 📝 I regularly update Information in Linkedin on [Pranav Badgujar](https://linkedin.com/in/pranav-badgujar-821224319)
+- 📝 I regularly update Tech Information in Linkedin and Instagram on [Pranav Badgujar](https://linkedin.com/in/pranav-badgujar-821224319) and 
 
 - 💬 Ask me about **Html, Css, Javascript, Java, C and C++**
 
