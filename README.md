@@ -64,3 +64,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pranav-prog-master&show_icons=true&locale=en" alt="Pranav-prog-master" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-prog-master&" alt="Pranav-prog-master" /></p>
+
+## 🎨 My Animations:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-prog-master/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav-prog-master/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pranav-prog-master/output/pacman-contribution-graph.svg">
+</picture>
