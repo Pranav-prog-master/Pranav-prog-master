@@ -37,7 +37,7 @@
 <a href="https://www.instagram.com/mr_pranav.xb_21" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
 <a href="https://www.threads.net/@mr_pranav.xb_21" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Threads logo" /></a>
+<img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Threads logo" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
