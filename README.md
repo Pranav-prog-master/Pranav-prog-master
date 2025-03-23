@@ -9,12 +9,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbadgujar" /> </p>
 
-- 🌱 I’m currently working on [Airbnb Clone](https://github.com/Pranav-prog-master/Airbnb_Clone.git)
-
+- 👨‍💻 I’m currently working on [Airbnb Clone](https://github.com/Pranav-prog-master/Airbnb_Clone.git)
+- 🌱 Currently learning: **MERN Stack (MongoDB, Express, React, Node.js) + Vite**
 - 📝 I regularly update Tech Information in Linkedin and Instagram on [Pranav Badgujar](https://linkedin.com/in/pranav-badgujar-821224319) and [mr_pranav.xb](https://www.instagram.com/mr_pranav.xb_21?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-
 - 💬 Ask me about **Html, Css, Javascript, Java, C and C++**
-
 - 📫 How to reach me **pranavbadgujar843@outlook.com**
 
 <details open>
