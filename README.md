@@ -35,18 +35,18 @@
 <details open>
 <summary>GitHub Contribution Chart</summary>
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishkhinchi&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-prog-master&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
 </p>
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-prog-master/Pranav-prog-master/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav-prog-master/Pranav-prog-master/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Pranav-prog-master/Pranav-prog-master/output/github-snake.svg" />
 </picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishkhinchi&show_icons=true&locale=en&layout=compact" alt="krishkhinchi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranav-prog-master&show_icons=true&locale=en&layout=compact" alt="Pranav-prog-master" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishkhinchi&show_icons=true&locale=en" alt="krishkhinchi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pranav-prog-master&show_icons=true&locale=en" alt="Pranav-prog-master" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishkhinchi&" alt="krishkhinchi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-prog-masteri&" alt="Pranav-prog-master" /></p>
