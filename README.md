@@ -21,9 +21,8 @@
 </details>
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranav-prog-master&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranav-prog-master&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub trophies" />
 </p>
 
 <h3 align="left">🤝 Connect with me:</h3>
