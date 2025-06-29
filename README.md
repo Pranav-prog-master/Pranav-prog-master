@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Badgujar Pranav</h1>
 <h3 align="center">A passionate Frontend and backend developer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=fe424d&center=true&width=600&lines=Welcome+to+my+GitHub+profile!+💻;Frontend and backend developer+🌐;Open-Source+Contributor;Lifelong+Learner+🎓" alt="Typing SVG" />
-</p>
-
 - 👨‍💻 I’m currently working on [Airbnb Clone](https://github.com/Pranav-prog-master/Airbnb_Clone.git)
 - 🌱 Currently learning: **MERN Stack (MongoDB, Express, React, Node.js) + Vite**
 - 📝 I regularly update Tech Information in Linkedin and Instagram on [Pranav Badgujar](https://linkedin.com/in/pranav-badgujar-821224319) and [mr_pranav.xb](https://www.instagram.com/mr_pranav.xb_21?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
@@ -16,7 +12,7 @@
 <details open>
 <summary>Developer Quote</summary>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Coding+like+poetry+should+be+short+and+concise.++-+Santosh Kalwar" alt="Developer Quote"/>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Codingnlike+poetry+should+be+short+and+concise.++-+Santosh+Kalwar" alt="Typing SVG" /></a>
 </p>
 </details>
 
