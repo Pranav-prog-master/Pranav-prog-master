@@ -12,7 +12,7 @@
 <details open>
 <summary>Developer Quote</summary>
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding+like+poetry+should+be+short+and+concise.++-+Santosh+Kalwar" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Coding+like+poetry+should+be+short+;and+concise.++-+Santosh+Kalwar" alt="Typing SVG" /></a>
 </p>
 </details>
 
