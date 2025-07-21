@@ -1,4 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img src="![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966](https://github.com/user-attachments/assets/91cb0d48-78e5-40cb-a1c6-a2922e9b10b7)" />
 
 <h1 align="center">Hi 👋, I'm Badgujar Pranav</h1>
 <h3 align="center">A passionate Frontend and backend developer from India</h3>
