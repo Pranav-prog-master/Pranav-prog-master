@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/user-attachments/assets/91cb0d48-78e5-40cb-a1c6-a2922e9b10b7" style="width:50%" />
+ <img src="https://github.com/user-attachments/assets/91cb0d48-78e5-40cb-a1c6-a2922e9b10b7" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Badgujar Pranav</h1>
