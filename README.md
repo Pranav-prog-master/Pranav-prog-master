@@ -23,6 +23,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Pranav-prog-master&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub trophies" />
 </p>
 
+
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pranav-badgujar-821224319" target="_blank" rel="noopener noreferrer">
