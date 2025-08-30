@@ -49,16 +49,12 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samarth-Shekhar&label=Profile%20views&color=0e75b6&style=flat" alt="Samarth-Shekhar" /> 
+  <img src="https://komarev.com/ghpvc/?username=Pranav-prog-master&label=Profile%20views&color=0e75b6&style=flat" alt="Pranav-prog-master" /> 
 </p>
 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pranav-prog-master&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pranav-prog-master&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-prog-master&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Pranav-prog-master&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="180em" />
