@@ -11,6 +11,32 @@
 - 💬 Ask me about **Html, Css, Javascript, Java, C and C++**
 - 📫 How to reach me **pranavbadgujar843@outlook.com**
 
+---
+
+## 🚀 **About Me**
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250">
+
+```javascript
+const pranav = {
+    name: "Pranav Badgujar",
+    role: "Full Stack Developer",
+    education: "B.Tech - Rai University, Ahmedabad",
+    currentFocus: ["React.js", "DSA", "Backend"],
+    expertise: {
+        frontend: ["React.js", "Next.js", "TypeScript", "Tailwind", "Bootstrap],
+        backend: ["Node.js", "Express", "MongoDB", "MySQL" , "Qraphql"],
+        design: ["Figma", "UI/UX"],
+        cloud: ["Vercel", "Netlify", "Render"],
+        database: ["MySql" , "MongoDB", "Postgresql", "Redis", "Supabase"]
+    },
+    motto: "Coding solutions, not just programs!"
+};
+```
+
+<br clear="right"/>
+
+---
 <details open>
 <summary>Developer Quote</summary>
 <p align="center">
