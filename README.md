@@ -94,21 +94,15 @@ const pranav = {
 ## 📊 GitHub Stats:
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav-prog-master&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="180em" />
+![](https://github-readme-stats.shion.dev/api?username=pranav-prog-master&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-prog-master&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="180em" />
+![](https://streak-stats.demolab.com/?user=pranav-prog-master&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranav-prog-master&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Pranav-prog-master&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</p>
 
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-prog-master&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" alt="Contribution Graph"/>
-</p>
 
 ## 🎨 My Animations:
 <picture>
