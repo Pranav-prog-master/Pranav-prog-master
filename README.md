@@ -92,22 +92,9 @@ const pranav = {
 ---
 
 ## 📊 GitHub Stats:
-
-
-<p align="center">
-  <!-- GitHub Stats -->
-![](https://github-readme-stats.shion.dev/api?username=pranav-prog-master&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-</p>
-
-<p align="center">
-  <!-- Most Used Languages -->
+![](https://github-readme-stats.shion.dev/api?username=pranav-prog-master&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=pranav-prog-master&theme=dark&hide_border=false)<br/>
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranav-prog-master&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
 
 
 
